@@ -123,6 +123,7 @@ LIMIT 5;
 | Python    | 57,326       |
 | Tableau   | 46,554       |
 | Power BI  | 39,468       |
+
 *Table of the demand for the top 5 skills in data analyst job postings*
 
 Here's the breakdown of the most demanded skills for data analysts in 2023
@@ -149,7 +150,7 @@ ORDER BY
 LIMIT 25;
 ```
 | Skills        | Average Salary ($) |
-|---------------|-------------------:|
+|---------------|--------------------|
 | pyspark       |            208,172 |
 | bitbucket     |            189,155 |
 | couchbase     |            160,515 |
@@ -160,6 +161,7 @@ LIMIT 25;
 | jupyter       |            152,777 |
 | pandas        |            151,821 |
 | elasticsearch |            145,000 |
+
 *Table of the average salary for the top 10 paying skills for data analysts*
 
 Here's a breakdown of the results for top paying skills for Data Analysts:
@@ -194,7 +196,7 @@ ORDER BY
 LIMIT 25;
 ```
 | Skill ID | Skills     | Demand Count | Average Salary ($) |
-|----------|------------|--------------|-------------------:|
+|----------|------------|--------------|--------------------|
 | 8        | go         | 27           |            115,320 |
 | 234      | confluence | 11           |            114,210 |
 | 97       | hadoop     | 22           |            113,193 |
@@ -205,6 +207,7 @@ LIMIT 25;
 | 4        | java       | 17           |            106,906 |
 | 194      | ssis       | 12           |            106,683 |
 | 233      | jira       | 20           |            104,918 |
+
 *Table of the top 10 most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023: 
