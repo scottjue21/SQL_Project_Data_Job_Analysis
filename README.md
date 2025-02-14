@@ -4,7 +4,7 @@ This project analyzes the data job market with a focus on data analyst roles, ex
 Explore the SQL queries used in this project here: [project_sql folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+As I navigate my job search in data analytics, this project serves a dual purpose: refining my SQL skills through hands-on practice and gaining valuable insights into industry trends. By examining job postings and skill demand, I aim to better understand the key qualifications employers seek, helping me make informed decisions in my career transition. This project not only enhances my technical abilities but also provides a data-driven approach to optimizing my job search strategy.
 
 Data was obtained from [Luke Baroussee's SQL Course](https://lukebarousse.com/sql). It contains with insights on job titles, salaries, locations, and essential skills.
 
@@ -237,4 +237,4 @@ From the analysis, several general insights emerged:
 
 ### Final Thoughts
 
-This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. Lastly, this exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+This project provided a valuable opportunity to refine my SQL skills while gaining deeper insights into the data analyst job market. By analyzing job postings and skill demand, I was able to identify key qualifications that can help guide my job search and professional development. The findings serve as a roadmap for prioritizing skill growth and aligning with industry needs. This analysis can also help other aspiring data analysts better position themselves in a competitive job market by focusing on high-demand, high-salary skills. Ultimately, this experience reinforced the importance of continuous learning and adapting to evolving trends in data analytics to stay competitive in the field. 
